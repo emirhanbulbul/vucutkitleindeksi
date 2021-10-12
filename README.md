@@ -7,6 +7,7 @@ Ayrıca bu benim ilk flutter deneyimim. Tek bir kod yazarak ios, android, web, l
 # Kullanılan Teknolojiler
 
  - Dart/Flutter
+ 
 **Flutter ile uygulama geliştirirken ilk gözüme çarpan native (kotlin,swift) teknolojiye göre uygulama boyutları daha yüksek oluyor. Bu projeyi kotlin ile yapsaydım 3-4mb boyutlarında çıktı alırdım. Fakat flutter ile 16mb bir boyut ortaya çıktı. Ancak flutter cross platform bir teknoloji bunu native ile kıyaslamak pek doğru olmaz.**
 
 # Ekran Görüntüleri
